@@ -1,0 +1,5 @@
+pip install pywin32
+pip install pynput
+pip install aircv
+pip install opencv-python # cv2
+pip install pyautogui
